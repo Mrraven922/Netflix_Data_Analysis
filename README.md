@@ -1,6 +1,6 @@
 # Netflix_Data_Analysis
 
-# 🎯 Project Objective
+# 🎯 Project Objective 
 
 This project performs exploratory data analysis and sentiment analysis on Netflix content using Python libraries. It aims to extract key insights about:
 
